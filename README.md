@@ -1,2 +1,2 @@
 # ClassroomManagementTracker
-The teacher can see that how many studebts are having doubts related to that topic.
+The teacher can see that how many students are having doubts related to that topic.
